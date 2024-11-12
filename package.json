@@ -9,6 +9,7 @@
     "preview": "vite preview",
     "lint": "eslint . --fix",
     "format": "prettier --write src/",
+    "start": "node backend/server",
     "dev-server": "node --watch backend/server"
   },
   "dependencies": {

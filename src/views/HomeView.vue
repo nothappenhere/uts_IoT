@@ -1,9 +1,9 @@
 <script setup>
 import Hero from '@/components/Hero.vue'
-import DisplayData from '@/components/DisplayData.vue'
+import Display from '@/components/Display.vue'
 </script>
 
 <template>
   <Hero />
-  <DisplayData />
+  <Display />
 </template>
