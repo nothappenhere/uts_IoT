@@ -11,7 +11,11 @@
           >.
         </span>
         <div class="flex mt-4 justify-center sm:justify-center md:mt-0 space-x-5">
-          <a href="#" target="_blank" class="text-gray-400 hover:text-gray-900">
+          <a
+            href="https://drive.google.com/drive/folders/1_IxDCogKtn2Xgx0yrTp3XLT5uTtQqnaT?usp=sharing"
+            target="_blank"
+            class="text-gray-400 hover:text-gray-900"
+          >
             <svg
               class="w-4 h-4"
               viewBox="0 -1.5 20 20"
